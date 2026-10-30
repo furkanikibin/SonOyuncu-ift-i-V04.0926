@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Vault">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Solentis Paket/orman/plugins/Vault.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Solentis Paket/orman/plugins/WorldEdit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Solentis Paket/orman/plugins/WorldGuard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+name: SOCiftci
+version: 1.0
+main: rado.Main
+author: rado
+
+depend: [Vault, Citizens]
+
+commands:
+  ciftci:
